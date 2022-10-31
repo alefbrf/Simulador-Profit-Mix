@@ -254,64 +254,59 @@ opacity: 1;
 background-color: #fff;
 }
 .optcolors input[type=radio]#blackbase + label span, .optcolors input[type=radio]#blackbase1 + label span, .optcolors input[type=radio]#blackbase2 + label span, .optcolors input[type=radio]#blackbase3 + label span, .optcolors input[type=radio]#blackbase4 + label span, .optcolors input[type=radio]#blackbase5 + label span, .optcolors input[type=radio]#blackbase6 + label span, .optcolors input[type=radio]#blackbase7 + label span, .optcolors input[type=radio]#blackbase8 + label span {
-background-color: #000;
+background-color: #E7D8B4;
 }
 .optcolors input[type=radio]#bluebase + label span, .optcolors input[type=radio]#bluebase1 + label span, .optcolors input[type=radio]#bluebase2 + label span, .optcolors input[type=radio]#bluebase3 + label span, .optcolors input[type=radio]#bluebase4 + label span, .optcolors input[type=radio]#bluebase5 + label span, .optcolors input[type=radio]#bluebase6 + label span, .optcolors input[type=radio]#bluebase7 + label span, .optcolors input[type=radio]#bluebase8 + label span {
-background-color: #EDE6CA;
+background-color: #A3C7CB;
 }
 .optcolors input[type=radio]#redbase + label span,.optcolors input[type=radio]#redbase1 + label span,.optcolors input[type=radio]#redbase2 + label span,.optcolors input[type=radio]#redbase3 + label span,.optcolors input[type=radio]#redbase4 + label span,.optcolors input[type=radio]#redbase5 + label span,.optcolors input[type=radio]#redbase6 + label span,.optcolors input[type=radio]#redbase7 + label span,.optcolors input[type=radio]#redbase8 + label span {
-background-color: #FAECBA;
+background-color: #A7A99B;
 }
 .optcolors input[type=radio]#yellowbase + label span, .optcolors input[type=radio]#yellowbase1 + label span, .optcolors input[type=radio]#yellowbase2 + label span, .optcolors input[type=radio]#yellowbase3 + label span, .optcolors input[type=radio]#yellowbase4 + label span, .optcolors input[type=radio]#yellowbase5 + label span, .optcolors input[type=radio]#yellowbase6 + label span, .optcolors input[type=radio]#yellowbase7 + label span, .optcolors input[type=radio]#yellowbase8 + label span {
-background-color: #F6DCCA;
+background-color: #99A6C4;
 }
 .optcolors input[type=radio]#greenbase + label span,.optcolors input[type=radio]#greenbase1 + label span,.optcolors input[type=radio]#greenbase2 + label span,.optcolors input[type=radio]#greenbase3 + label span,.optcolors input[type=radio]#greenbase4 + label span,.optcolors input[type=radio]#greenbase5 + label span,.optcolors input[type=radio]#greenbase6 + label span,.optcolors input[type=radio]#greenbase7 + label span,.optcolors input[type=radio]#greenbase8 + label span {
-background-color: #A0B8AA;
+background-color: #79B0C8;
 }
 .optcolors input[type=radio]#base1 + label span,.optcolors input[type=radio]#base11 + label span,.optcolors input[type=radio]#base12 + label span,.optcolors input[type=radio]#base13 + label span,.optcolors input[type=radio]#base14 + label span,.optcolors input[type=radio]#base15 + label span,.optcolors input[type=radio]#base16 + label span,.optcolors input[type=radio]#base17 + label span,.optcolors input[type=radio]#base18 + label span {
-    background-color: #A9DCE7;
+    background-color: #AFD8C0;
     }
 
 .optcolors input[type=radio]#base2 + label span,.optcolors input[type=radio]#base21 + label span,.optcolors input[type=radio]#base22 + label span,.optcolors input[type=radio]#base23 + label span,.optcolors input[type=radio]#base24 + label span,.optcolors input[type=radio]#base25 + label span,.optcolors input[type=radio]#base26 + label span,.optcolors input[type=radio]#base27 + label span,.optcolors input[type=radio]#base28 + label span {
-    background-color: #5C9FC8;
+    background-color: #8D847C;
     }
 
 .optcolors input[type=radio]#base3 + label span,.optcolors input[type=radio]#base31 + label span,.optcolors input[type=radio]#base32 + label span,.optcolors input[type=radio]#base33 + label span,.optcolors input[type=radio]#base34 + label span,.optcolors input[type=radio]#base35 + label span,.optcolors input[type=radio]#base36 + label span,.optcolors input[type=radio]#base37 + label span,.optcolors input[type=radio]#base38 + label span {
-    background-color: #1659A6;
+    background-color: #476E9D;
     }
 
 .optcolors input[type=radio]#base4 + label span,.optcolors input[type=radio]#base41 + label span,.optcolors input[type=radio]#base42 + label span,.optcolors input[type=radio]#base43 + label span,.optcolors input[type=radio]#base44 + label span,.optcolors input[type=radio]#base45 + label span,.optcolors input[type=radio]#base46 + label span,.optcolors input[type=radio]#base47 + label span,.optcolors input[type=radio]#base48 + label span {
-    background-color: #444D91;
+    background-color: #375693;
     }
 
 .optcolors input[type=radio]#base5 + label span,.optcolors input[type=radio]#base51 + label span,.optcolors input[type=radio]#base52 + label span,.optcolors input[type=radio]#base53 + label span,.optcolors input[type=radio]#base54 + label span,.optcolors input[type=radio]#base55 + label span,.optcolors input[type=radio]#base56 + label span,.optcolors input[type=radio]#base57 + label span,.optcolors input[type=radio]#base58 + label span {
-    background-color: #BCA07A;
+    background-color: #344547;
     }
 
 .optcolors input[type=radio]#base6 + label span,.optcolors input[type=radio]#base61 + label span,.optcolors input[type=radio]#base62 + label span,.optcolors input[type=radio]#base63 + label span,.optcolors input[type=radio]#base64 + label span,.optcolors input[type=radio]#base65 + label span,.optcolors input[type=radio]#base66 + label span,.optcolors input[type=radio]#base67 + label span,.optcolors input[type=radio]#base68 + label span {
-    background-color: #F04603;
+    background-color: #4D585A;
     }
 
 .optcolors input[type=radio]#base7 + label span,.optcolors input[type=radio]#base71 + label span,.optcolors input[type=radio]#base72 + label span,.optcolors input[type=radio]#base73 + label span,.optcolors input[type=radio]#base74 + label span,.optcolors input[type=radio]#base75 + label span,.optcolors input[type=radio]#base76 + label span,.optcolors input[type=radio]#base77 + label span,.optcolors input[type=radio]#base78 + label span {
-    background-color: #9E0614;
+    background-color: #880A1A;
     }
 
 .optcolors input[type=radio]#base8 + label span,.optcolors input[type=radio]#base81 + label span,.optcolors input[type=radio]#base82 + label span,.optcolors input[type=radio]#base83 + label span,.optcolors input[type=radio]#base84 + label span,.optcolors input[type=radio]#base85 + label span,.optcolors input[type=radio]#base86 + label span,.optcolors input[type=radio]#base87 + label span,.optcolors input[type=radio]#base88 + label span {
-    background-color: #051859;
+    background-color: #171828;
     }
 
 .optcolors input[type=radio]#base9 + label span,.optcolors input[type=radio]#base91 + label span,.optcolors input[type=radio]#base92 + label span,.optcolors input[type=radio]#base93 + label span,.optcolors input[type=radio]#base94 + label span,.optcolors input[type=radio]#base95 + label span,.optcolors input[type=radio]#base96 + label span,.optcolors input[type=radio]#base97 + label span,.optcolors input[type=radio]#base98 + label span {
-    background-color: #617077;
+    background-color: #171522;
     }
 
 .optcolors input[type=radio]#base10 + label span,.optcolors input[type=radio]#base101 + label span,.optcolors input[type=radio]#base102 + label span,.optcolors input[type=radio]#base103 + label span,.optcolors input[type=radio]#base104 + label span,.optcolors input[type=radio]#base105 + label span,.optcolors input[type=radio]#base106 + label span,.optcolors input[type=radio]#base107 + label span,.optcolors input[type=radio]#base108 + label span {
-    background-color: #026A4A;
+    background-color: #000;
     }
-
-.optcolors input[type=radio]#base110 + label span,.optcolors input[type=radio]#base111 + label span,.optcolors input[type=radio]#base112 + label span,.optcolors input[type=radio]#base113 + label span,.optcolors input[type=radio]#base114 + label span,.optcolors input[type=radio]#base115 + label span,.optcolors input[type=radio]#base116 + label span,.optcolors input[type=radio]#base117 + label span,.optcolors input[type=radio]#base118 + label span {
-    background-color: #4C4243;
-    }
-
 .switch, .switch2 {
 visibility: hidden;
 position: absolute;
